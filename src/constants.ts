@@ -36,7 +36,7 @@ export const playListData: Track[] = [
       album: 'Pal Pal Dil Ke Paas',
       artwork:
         'https://c.saavncdn.com/328/Pal-Pal-Dil-Ke-Paas-Hindi-2019-20200420150444-500x500.jpg',
-      url: require('./assets/our.mp3'),
+      url: require('./assets/four.mp3'),
     },
     {
       id: 5,

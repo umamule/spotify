@@ -1,8 +1,9 @@
 /**
  * @format
  */
-import { playbackService } from './musicPalyerServise';
+import { playbackService } from './musicPlayerServise';
 import TrackPlayer from 'react-native-track-player';
+import TrackPlayerModule from 'react-native-track-player';
 
 import {AppRegistry} from 'react-native';
 import App from './App';
